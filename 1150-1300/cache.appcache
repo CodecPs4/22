@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Amine PS4 PS4 offline cache 11.50-13.00 v20260921
+# Amine PS4 PS4 offline cache 11.50-13.00 v20260921.2
 EXTRACTION_MANIFEST.json
 PREFLIGHT.md
 cache.appcache
@@ -21,6 +21,6 @@ run_lapse.html
 run_poops.html
 ../theme.css
 ../unified-theme.css
-../background.png
+background.jpg
 NETWORK:
 *
