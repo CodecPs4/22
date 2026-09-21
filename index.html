@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="unified-theme.css">
 <style>
 html,body{width:100%;height:100%;margin:0;overflow:hidden}
-body{background:#050914 url("background.png") center/cover no-repeat fixed!important}
+body{background:#050914 url("background.jpg") center/cover no-repeat fixed!important}
 .wrap{height:100%;display:flex;align-items:center;justify-content:center;padding:18px}
 .card{width:min(620px,90vw);padding:30px;border:1px solid rgba(115,170,255,.24);border-radius:16px;background:rgba(2,8,17,.82);box-shadow:0 16px 45px rgba(0,0,0,.45);text-align:center}
 .brand{font-size:11px;letter-spacing:.28em;color:#9db8d8;margin-bottom:9px}
@@ -18,6 +18,8 @@ h1{margin:0 0 8px;font-size:28px}h1 b{color:#8fc8ff}
 .bar{height:8px;margin-top:14px;border-radius:99px;background:rgba(255,255,255,.12);overflow:hidden}
 #fill{height:100%;width:0;background:#8fc8ff;transition:width .15s}
 </style>
+
+<style id="offline-bg-fix">html,body{min-height:100%;background-color:#050914!important;}body{background-image:url("background.jpg")!important;background-position:center center!important;background-size:cover!important;background-repeat:no-repeat!important;background-attachment:fixed!important;}</style>
 </head>
 <body>
 <div class="wrap"><div class="card">
