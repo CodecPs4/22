@@ -18,8 +18,5 @@ src/ps4/patches/1102.bin
 src/ps4/userland.js
 src/worker.js
 src/workers.js
-../background.png
-../theme.css
-../unified-theme.css
 NETWORK:
 *

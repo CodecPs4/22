@@ -22,6 +22,5 @@ src/workers.js
 ../unified-theme.css
 ../theme.css
 
-../background.png
 NETWORK:
 *
