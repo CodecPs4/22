@@ -1,4 +1,5 @@
 body {
+    background: #050914 url("../background.png") center center/cover no-repeat fixed !important;
     background: #111111;
     color: #dddddd;
     margin: 0;

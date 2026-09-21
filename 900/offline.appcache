@@ -37,5 +37,8 @@ psfree.mjs
 psfree_lapse.cache
 rop/900.mjs
 send.mjs
+../background.png
+../theme.css
+../unified-theme.css
 NETWORK:
 *
