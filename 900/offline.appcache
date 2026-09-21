@@ -37,5 +37,6 @@ psfree.mjs
 psfree_lapse.cache
 rop/900.mjs
 send.mjs
+../background.png
 NETWORK:
 *
