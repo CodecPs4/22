@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# AMINE PS4 PS4 offline cache 10.00-11.02 v20260921
+# AMINE PS4 PS4 offline cache 10.00-11.02 v20260921.2
 includes/script.js
 includes/style.css
 index.html
@@ -18,6 +18,6 @@ src/ps4/patches/1102.bin
 src/ps4/userland.js
 src/worker.js
 src/workers.js
-../background.png
+background.jpg
 NETWORK:
 *
